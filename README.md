@@ -1,8 +1,2 @@
 # Perkulliahan
-echo "# Perkulliahan" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Bandar-Tsuki/Perkulliahan.git
-git push -u origin main
+This Git i made to put my code so my teacher and my friend can see it
